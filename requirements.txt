@@ -1,0 +1,6 @@
+pandas==2.2.3
+huggingface-hub>=1.23,<2
+tavily-python>=0.5,<1
+langchain-core>=1,<2
+langchain-classic>=1,<2
+langchain-openai>=1,<2
